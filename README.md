@@ -8,4 +8,3 @@ I'm a full stack software engineer who's proficient in Javascript, Python, Ruby,
 - 💬 Ask me about Javascript, Python, Ruby, React.js, Redux.js and Ruby on Rails
 - 😄 Pronouns: She / her
 - ⚡ Fun fact: I love playing tennis
--->
