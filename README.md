@@ -1,2 +1,2 @@
 ### Hi there 👋
-I'm a application engineer at Arize AI
+I'm an application engineer at Arize AI
