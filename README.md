@@ -1,2 +1,2 @@
 ### Hi there 👋
-I'm an backend engineer at Arize AI
+I'm a backend engineer at Arize AI
