@@ -10,3 +10,19 @@ I like turning ambiguous ideas into clear, useful systems that solve real proble
 - **Personal Finance Copilot** — an AI assistant for helping users organize financial information, surface insights, and make better decisions
 - **Personal Google Workspace Agent** — an agent that can search, reason, and take action across Gmail, Calendar, Docs, and Drive
 - **Fashion Outfit AI Matcher** — a tool that identifies outfits from images and recommends exact matches or similar items to buy
+
+### Current focus
+- LLM agents and tool-using systems
+- Retrieval, evaluation, and reliability for AI products
+- AI-native workflow automation across productivity tools
+
+### Technical interests
+- LLM application engineering
+- Retrieval-augmented generation (RAG)
+- Evaluation and prompt/system quality measurement
+- Tool calling and agent workflows
+- Backend systems for AI products
+- Observability, reliability, and productionization
+
+### Tools & technologies
+Python, TypeScript, AWS, APIs, distributed systems, LLM application development, RAG, embeddings, vector search, evaluation pipelines, agent workflows, structured outputs
